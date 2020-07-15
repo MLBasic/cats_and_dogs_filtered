@@ -1,1 +1,1 @@
-# cats_and_gods_filtered file
+# cats_and_dogs_filtered file
